@@ -1,0 +1,5 @@
+C:\proyecto-C#\C#\EJ4\obj\Debug\net10.0\EJ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto-C#\C#\EJ4\obj\Debug\net10.0\EJ4.AssemblyInfoInputs.cache
+C:\proyecto-C#\C#\EJ4\obj\Debug\net10.0\EJ4.AssemblyInfo.cs
+C:\proyecto-C#\C#\EJ4\obj\Debug\net10.0\EJ4.csproj.CoreCompileInputs.cache
+C:\proyecto-C#\C#\EJ4\obj\Debug\net10.0\EJ4.sourcelink.json

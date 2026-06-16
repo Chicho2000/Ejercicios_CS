@@ -1,0 +1,15 @@
+C:\proyecto-C#\C#\Ej6\bin\Debug\net10.0\Ej6.exe
+C:\proyecto-C#\C#\Ej6\bin\Debug\net10.0\Ej6.deps.json
+C:\proyecto-C#\C#\Ej6\bin\Debug\net10.0\Ej6.runtimeconfig.json
+C:\proyecto-C#\C#\Ej6\bin\Debug\net10.0\Ej6.dll
+C:\proyecto-C#\C#\Ej6\bin\Debug\net10.0\Ej6.pdb
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.AssemblyInfoInputs.cache
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.AssemblyInfo.cs
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.csproj.CoreCompileInputs.cache
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.sourcelink.json
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.dll
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\refint\Ej6.dll
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.pdb
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\Ej6.genruntimeconfig.cache
+C:\proyecto-C#\C#\Ej6\obj\Debug\net10.0\ref\Ej6.dll

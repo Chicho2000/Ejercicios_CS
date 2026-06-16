@@ -1,0 +1,15 @@
+C:\proyecto-C#\C#\Ej5\bin\Debug\net10.0\Ej5.exe
+C:\proyecto-C#\C#\Ej5\bin\Debug\net10.0\Ej5.deps.json
+C:\proyecto-C#\C#\Ej5\bin\Debug\net10.0\Ej5.runtimeconfig.json
+C:\proyecto-C#\C#\Ej5\bin\Debug\net10.0\Ej5.dll
+C:\proyecto-C#\C#\Ej5\bin\Debug\net10.0\Ej5.pdb
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.AssemblyInfoInputs.cache
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.AssemblyInfo.cs
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.csproj.CoreCompileInputs.cache
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.sourcelink.json
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.dll
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\refint\Ej5.dll
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.pdb
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\Ej5.genruntimeconfig.cache
+C:\proyecto-C#\C#\Ej5\obj\Debug\net10.0\ref\Ej5.dll

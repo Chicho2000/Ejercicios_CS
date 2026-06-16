@@ -1,0 +1,15 @@
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\bin\Debug\net10.0\Ej2.exe
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\bin\Debug\net10.0\Ej2.deps.json
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\bin\Debug\net10.0\Ej2.runtimeconfig.json
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\bin\Debug\net10.0\Ej2.dll
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\bin\Debug\net10.0\Ej2.pdb
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.AssemblyInfoInputs.cache
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.AssemblyInfo.cs
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.csproj.CoreCompileInputs.cache
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.sourcelink.json
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.dll
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\refint\Ej2.dll
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.pdb
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\Ej2.genruntimeconfig.cache
+C:\Users\cirop\OneDrive\Escritorio\C#\Ej2\obj\Debug\net10.0\ref\Ej2.dll

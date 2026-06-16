@@ -1,0 +1,15 @@
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.AssemblyInfoInputs.cache
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.AssemblyInfo.cs
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.csproj.CoreCompileInputs.cache
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.sourcelink.json
+C:\proyecto-C#\C#\EJ4\bin\Release\net10.0\EJ4.exe
+C:\proyecto-C#\C#\EJ4\bin\Release\net10.0\EJ4.deps.json
+C:\proyecto-C#\C#\EJ4\bin\Release\net10.0\EJ4.runtimeconfig.json
+C:\proyecto-C#\C#\EJ4\bin\Release\net10.0\EJ4.dll
+C:\proyecto-C#\C#\EJ4\bin\Release\net10.0\EJ4.pdb
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.dll
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\refint\EJ4.dll
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.pdb
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\EJ4.genruntimeconfig.cache
+C:\proyecto-C#\C#\EJ4\obj\Release\net10.0\ref\EJ4.dll
